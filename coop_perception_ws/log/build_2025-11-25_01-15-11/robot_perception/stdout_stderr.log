@@ -1,0 +1,28 @@
+running develop
+running egg_info
+writing robot_perception.egg-info/PKG-INFO
+writing dependency_links to robot_perception.egg-info/dependency_links.txt
+writing entry points to robot_perception.egg-info/entry_points.txt
+writing requirements to robot_perception.egg-info/requires.txt
+writing top-level names to robot_perception.egg-info/top_level.txt
+reading manifest file 'robot_perception.egg-info/SOURCES.txt'
+writing manifest file 'robot_perception.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/python3.12/site-packages/robot-perception.egg-link (link to .)
+Installing accuracy_proxy script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing accuracy_proxy_match script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing awareness_bridge script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing dummy_detector script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing fuse_concat script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing fuse_distance script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing fuse_merge_robust script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing lift_2d_to_3d script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing lift_2d_to_3d_latest script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing lift_2d_to_3d_sync script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing metrics_logger script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing to_map_republisher script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing yolo2d_detector script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+Installing yolo_lift_3d_sync_backup script to /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/install/robot_perception/lib/robot_perception
+
+Installed /home/cmpe/functioning-bot/cooperative_perception_ros2/coop_perception_ws/build/robot_perception
+running symlink_data
